@@ -1,6 +1,4 @@
-header {background-color: 383D58; color:white}
-*{margin:0;
-padding:0;}
+
 
 .cabeçalho {background-color: #383D58;
 color:white;
@@ -31,6 +29,6 @@ display:flex;
 }
 
 .escola-titulo{
-    padding: 24px;
+    padding: 24px 0;
 }
 
